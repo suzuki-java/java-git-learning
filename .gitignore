@@ -3,3 +3,11 @@
 
 # Java のコンパイル済みファイル
 *.class
+# macOS が自動生成する不要ファイル
+.DS_Store
+
+# Java のコンパイル済みファイル
+*.class
+
+# bin ディレクトリ（Javaの出力先としてよく使われる）
+bin/
