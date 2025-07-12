@@ -1,0 +1,5 @@
+# macOS の余計なファイル
+.DS_Store
+
+# Java のコンパイル済みファイル
+*.class
