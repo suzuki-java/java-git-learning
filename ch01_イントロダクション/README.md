@@ -21,3 +21,11 @@ java Sample1
 
 ## 🔁 振り返り・補足（任意）
 - 詰まった点、参考にしたURL、今後の復習ポイントなど
+- # Java のコンパイルファイルを除外
+*.class
+
+# macOS特有の隠しファイル
+.DS_Store
+
+# VS Codeの設定ディレクトリ
+.vscode/
